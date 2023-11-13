@@ -3,11 +3,7 @@
 <h1 align="center">
   
 <p align="center">
-<!--   <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" /> -->
-  
-  <div dir="ltr">
-    <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
 </p>
 </h1>
 
