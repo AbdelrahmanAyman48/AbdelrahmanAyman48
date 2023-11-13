@@ -8,7 +8,7 @@
   <title>Typing Animation</title>
 </head>
 <body>
-  <div dir="rtl">
+  <div dir="ltr">
     <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
   </div>
 </body>
