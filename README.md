@@ -1,5 +1,4 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
   <div dir="rtl">
   <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
 </div>
