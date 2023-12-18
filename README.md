@@ -60,8 +60,13 @@
 </a>
 </p>
 
+### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman48&" alt="AbdelrahmanAyman48" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact" alt="AbdelrahmanAyman485" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman48&show_icons=true&locale=en" alt="AbdelrahmanAyman48" /></p>
 <br>
 <a href="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge">
@@ -81,31 +86,7 @@
 [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amr_ElSsyed)
 -->
 
-
-<!-- ### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<br/>
--->
-
-
  
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud200015&" alt="mahmoud200015" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud200015&show_icons=true&locale=en&layout=compact" alt="mahmoud200015" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud200015&show_icons=true&locale=en" alt="mahmoud200015" /></p>
-
-
-
-
 
 
 
