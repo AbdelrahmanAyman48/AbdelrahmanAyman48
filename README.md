@@ -95,9 +95,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman48" alt="AbdelrahmanAyman48 Streak" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman48&show_icons=true&locale=en" alt="AbdelrahmanAyman48 Stats" />
-  
+<br>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-
+<br>
   <a href="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge" alt="Profile Views" />
   </a>
