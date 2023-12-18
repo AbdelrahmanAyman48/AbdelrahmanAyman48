@@ -17,7 +17,7 @@
 </p>
 <h3 align="center"> {وَ قُلْ رَبِّ زِدْنِي عِلْماً} </h3>
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a Mechatronics Engineer & Embedded Software & Frontend Software Developer 
 - 👨‍💻 As a MCT Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, C, Embedded C, Python, Problem-Solving, JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
@@ -74,8 +74,6 @@
     <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
-
-
 
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=70px>
