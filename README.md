@@ -61,27 +61,20 @@
 </p>
 
 ### Stats
-<div style="display: flex; flex-direction: column;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman48" alt="AbdelrahmanAyman48 Streak" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman48" alt="AbdelrahmanAyman48 Streak" />
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact" alt="AbdelrahmanAyman48's Top Languages" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAyman48&show_icons=true&locale=en&layout=compact" alt="AbdelrahmanAyman48's Top Languages" />
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman48&show_icons=true&locale=en" alt="AbdelrahmanAyman48 Stats" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman48&show_icons=true&locale=en" alt="AbdelrahmanAyman48 Stats" />
 
-  <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+  <a href="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAyman48&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
+
 
 
 
